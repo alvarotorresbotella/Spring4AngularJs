@@ -1,0 +1,10 @@
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/service/UserService.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/controller/IndexController.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/dao/UserDaoImpl.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/service/UserServiceImpl.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/configuration/CORSFilter.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/configuration/AtbConfiguration.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/controller/AtbRestController.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/dao/UserDao.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/model/User.java
+/home/alvaro/workspace/Spring4AngularJs/src/main/java/com/atb/configuration/AtbInitializer.java
